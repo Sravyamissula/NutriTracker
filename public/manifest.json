@@ -1,0 +1,30 @@
+{
+  "name": "NutriTrack AI",
+  "short_name": "NutriTrack",
+  "description": "An intelligent Progressive Web App for tracking nutrition, planning meals, and achieving fitness goals with the power of AI.",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f1f5f9",
+  "theme_color": "#22c55e",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["icons/icon-192x192.png"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}

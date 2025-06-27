@@ -1,0 +1,9 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "name": "NutriTrack AI",
+  "description": "",
+  "prompt": ""
+}
